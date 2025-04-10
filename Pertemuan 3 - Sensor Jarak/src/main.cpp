@@ -1,7 +1,7 @@
 #include <Arduino.h>
 
-int trigPin = D0; //mengeluarkn gelombang
-int echoPin = D1; //menangkap
+int trigPin = D0; 
+int echoPin = D1; 
 int Led = D2;
 
 long duration;
